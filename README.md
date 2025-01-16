@@ -2,6 +2,8 @@
 # google-play-scraper
  Monitoring Google Play app stats
 
+ 
+
 ### apps
 | Icon | Name | Version | Installs | Av. Installs Daily | 
 | -- | -- | -- | -- | -- | 
