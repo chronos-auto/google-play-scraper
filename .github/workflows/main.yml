@@ -25,8 +25,7 @@ jobs:
               
         - name: commit files
           run: |
-                git config --local user.email "fbiego.fb@gmail.com"
-                git config --local user.name "fbiego"
+                git config --local user.name "chronos-auto"
                 git pull
                 git add -A
                 git commit -m "update stats" -a
