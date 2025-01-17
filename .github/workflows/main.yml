@@ -19,7 +19,7 @@ jobs:
               python-version: 3.8 #install the python needed
               cache: 'pip'
         - run: pip install -r requirements.txt
-        - name: execute scraper script # run the script
+        - name: execute scraper script # run the script 
           run: |
               python stats.py
               
